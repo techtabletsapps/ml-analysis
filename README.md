@@ -1,1 +1,1 @@
-# ml-analysis
+# machine-learning-practical-analysis
